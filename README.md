@@ -12,4 +12,5 @@ Basic infrastructure for working with digital representations of manuscripts:
 
 Advanced editing work:
 
-- to be determined
+- end of *Iliad* 13
+
