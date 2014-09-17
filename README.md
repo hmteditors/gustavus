@@ -16,5 +16,5 @@ creating a navigational index of Iliad lines in Bodmer 85
 Advanced editing work:
 
 - end of *Iliad* 13:  folios 175 recto - folio 180 recto (inclusive)
-- This is a test edit to see if the virtual machine is still working.
+
 
