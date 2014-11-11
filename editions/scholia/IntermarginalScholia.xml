@@ -59,7 +59,7 @@
                             <p>urn:cts:greekLit:tlg5026.msAim.hmt:13.A4</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι ἀντὶ τοῦ <rs type="waw">κυανοχαίτης</rs></p>
+                            <p>ὅτι πτῶσις ἤλλακται αντι <q>τοῦ δε σκότος ὄσσε</q>⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.563" type="scholion">
@@ -70,7 +70,8 @@
                             <p>urn:cts:greekLit:tlg5026.msAim.hmt:13.A5</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι ἀντὶ τοῦ <rs type="waw">κυανοχαίτης</rs></p>
+                            <p><persName n="urn:cite:hmt:pers.pers16">Ἀρισταρχος</persName><rs
+                                    n="waw">ὁμαρτηδην</rs> ὡς <rs n="waw">τμήδην</rs>⁑</p>
                         </div>
                     </div>
                 </body>
