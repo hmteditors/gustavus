@@ -18,56 +18,56 @@
         <group n="13">
             <text n="msAim">
                 <body>
-                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.563" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A1" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg5026.msAim.hmt:13.A1</p>
+                            <p>urn:cts:greekLit:tlg5026.msAim.hmt:13.563</p>
                         </div>
                         <div type="comment">
                             <p>ὅτι ἀντὶ τοῦ <rs type="waw">κυανοχαίτης</rs>⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.564" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A2" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg5026.msAim.hmt:13.A2</p>
+                            <p>urn:cts:greekLit:tlg5026.msAim.hmt:13.564</p>
                         </div>
                         <div type="comment">
                             <p>ὅτι ἅπαξ ὁ σκῶλος</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.567" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A3" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg5026.msAim.hmt:13.A3</p>
+                            <p>urn:cts:greekLit:tlg5026.msAim.hmt:13.567</p>
                         </div>
                         <div type="comment">
                             <p>ἐν αλλῳ <q>ὁ δὲ σχόμενος</q></p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.563" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A4" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg5026.msAim.hmt:13.A4</p>
+                            <p>urn:cts:greekLit:tlg5026.msAim.hmt:13.575</p>
                         </div>
                         <div type="comment">
                             <p>ὅτι πτῶσις ἤλλακται αντι <q>τοῦ δε σκότος ὄσσε</q>⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.563" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A5" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg5026.msAim.hmt:13.A5</p>
+                            <p>urn:cts:greekLit:tlg5026.msAim.hmt:13.584</p>
                         </div>
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers16">Ἀρισταρχος</persName><rs
