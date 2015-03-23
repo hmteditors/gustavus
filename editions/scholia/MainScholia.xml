@@ -77,7 +77,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.617</p>
                         </div>
                         <div type="comment">
-                            <p>οὕτως πέσον αἱ <persName n="urn:cite:hmt:pers.pers16">Ἀριστάρχου</persName> δια τοῦ <rs n="waw">ο</rs> ὡς ἐκεῖ ὡς τῶν
+                            <p>οὕτως πέσον αἱ <persName n="urn:cite:hmt:pers.pers16"
+                                    >Ἀριστάρχου</persName> δια τοῦ <rs n="waw">ο</rs> ὡς ἐκεῖ ὡς τῶν
                                 ἐκ χειρῶν βέλεα ῥεόν ⁑</p>
                         </div>
                     </div>
@@ -118,26 +119,35 @@
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A9" type="scholion">
                         <div type="lemma">
-                            <p>τὼ δ' άρ' ὁμαρτήτην</p>
+                            <p>οι μευ κουριδίην</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.584</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.626</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι ἐπι τοῦ Ἐλένου ὕστερον εἰπῶν ἀπ αυτοῦ ἤρξατο εἰπὼν Πριαμίδης μὲν
-                                ἔπειτα, προς τὸ δεύτερον⁑ </p>
+                            <p>ὅτι προς τὴν κουριδίαν ὡς ἐκ παρθενίας αὐτην εσχεν ὁ <persName
+                                    n="urn:cite:hmt:pers.pers119">Μενέλαος</persName> καὶ οὐκ οἰδεν
+                                τὰ περι τῆς <persName n="urn:cite:hmt:pers.pers280"
+                                    >Θησεως</persName> ἀρπαγῆς⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A10" type="scholion">
                         <div type="lemma">
-                            <p>τὼ δ' άρ' ὁμαρτήτην</p>
+                            <p>μὰψ οἴχεσθ' ἀνάγοντες</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.584</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.627</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι ἐπι τοῦ Ἐλένου ὕστερον εἰπῶν ἀπ αυτοῦ ἤρξατο εἰπὼν Πριαμίδης μὲν
-                                ἔπειτα, προς τὸ δεύτερον⁑ </p>
+                            <p>ἡ διπλῆ ὅτι <persName n="urn:cite:hmt:pers.pers15"
+                                    >Ζηνόδοτος</persName> γράφει <q>μὰψ οἴχεσθον ἄγοντες</q> καὶ τὸ
+                                δυϊκὸν συγκεῖται ἐπι πολλῶν τασσόμενον καὶ <choice>
+                                    <orig>ἡγνώηκας</orig>
+                                    <reg>ἡγνώηκεν</reg>
+                                </choice> ὅτι ἀναγογην καλεῖ τὸν ἐκ <placeName
+                                    n="urn:cite:hmt:place.place36">Πελοποννήσου</placeName> εις
+                                    <placeName n="urn:cite:hmt:place.place15">Τροίαν</placeName>
+                                πλοῦν⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A11" type="scholion">
