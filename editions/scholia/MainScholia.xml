@@ -152,26 +152,29 @@
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A11" type="scholion">
                         <div type="lemma">
-                            <p>τὼ δ' άρ' ὁμαρτήτην</p>
+                            <p>φιλέεσθέ περ αὐτῇ</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.584</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.627</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι ἐπι τοῦ Ἐλένου ὕστερον εἰπῶν ἀπ αυτοῦ ἤρξατο εἰπὼν Πριαμίδης μὲν
-                                ἔπειτα, προς τὸ δεύτερον⁑ </p>
+                            <p>διχῶσ αἱ <persName n="urn:cite:hmt:pers.pers16">Ἀριστάρχου</persName>
+                                καὶ δια τοῦ <rs n="waw">ε</rs>⁑ </p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A12" type="scholion">
                         <div type="lemma">
-                            <p>τὼ δ' άρ' ὁμαρτήτην</p>
+                            <p>πῦρ ὀλοὸν βαλέειν κτεῖναι δ' ἥρωας <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place96">Αχαιούς</rs></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.584</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.629</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι ἐπι τοῦ Ἐλένου ὕστερον εἰπῶν ἀπ αυτοῦ ἤρξατο εἰπὼν Πριαμίδης μὲν
-                                ἔπειτα, προς τὸ δεύτερον⁑ </p>
+                            <p> ὅτι σαφῶς πάντας τοὺς <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place3">Ἕλληνας</rs> ήρωας καλεῖ πρὸς
+                                <placeName n="urn:cite:hmt:place.place250">Ἴστρον</placeName> λεγόντα μόνους τὸυς βασιλεῖς ἥρωας λέγεσθαι ὑφ <persName
+                                    n="urn:cite:hmt:pers.pers17">Ὁμήρου</persName>⁑</p>
                         </div>
                     </div>
                 </body>

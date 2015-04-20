@@ -40,6 +40,28 @@
                             <p>ὁ πόλεμος κυρίως δι ὸν ἡ τρῶσις.</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.A3" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.617</p>
+                        </div>
+                        <div type="comment">
+                            <p>oὕτωσ δια τοῦ <rs n="waw">σ</rs> ὁ πέσον⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.A4" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.622</p>
+                        </div>
+                        <div type="comment">
+                            <p>τοῦτο· ἀπ άλλησ ἀρχῆσ ἀναγνωστεον λειπει γὰρ τὸ <sic>εἴστέ</sic> ἢ τὸ εσμέν</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
