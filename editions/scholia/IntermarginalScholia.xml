@@ -109,6 +109,39 @@
                                 <p>ἐν αλλῳ και κτήμαθ' ἄμ' αὐτῇ.⁑ </p>
                             </div>
                         </div>
+                        <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A9" type="scholion">
+                            <div type="lemma">
+                                <p/>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.643</p>
+                            </div>
+                            <div type="comment">
+                                <p>πρὸς τὴν περὶ τοῦ Πυλαιμένους ζήτησιν⁑</p>
+                            </div>
+                        </div>
+                        <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A10" type="scholion">
+                            <div type="lemma">
+                                <p/>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.649</p>
+                            </div>
+                            <div type="comment">
+                                <p>ὅτι πτῶσις ἤλλακται χρόα ἀντὶ τοῦ χρῶτὸς⁑</p>
+                            </div>
+                        </div>
+                        <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A11" type="scholion">
+                            <div type="lemma">
+                                <p/>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.653</p>
+                            </div>
+                            <div type="comment">
+                                <p><choice><abbr>βραχ</abbr><expan>βραχὺ</expan></choice>διασταλέον προς το σαφές⁑</p>
+                            </div>
+                        </div>
                     </div>
                 </body>
             </text>

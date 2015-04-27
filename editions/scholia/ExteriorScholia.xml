@@ -29,7 +29,7 @@
                             <p><w>ποσειδ<gap unit="letters" extent="3"></gap></w></p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAext.hmt:13.A3" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAext.hmt:13.A2" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -38,6 +38,17 @@
                         </div>
                         <div type="comment">
                             <p>ὁμαρτητην</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAext.hmt:13.A3" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.651</p>
+                        </div>
+                        <div type="comment">
+                            <p>κατα κύστιν</p>
                         </div>
                     </div>
                 </body>

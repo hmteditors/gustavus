@@ -173,8 +173,75 @@
                         <div type="comment">
                             <p> ὅτι σαφῶς πάντας τοὺς <rs type="ethnic"
                                     n="urn:cite:hmt:place.place3">Ἕλληνας</rs> ήρωας καλεῖ πρὸς
-                                <placeName n="urn:cite:hmt:place.place250">Ἴστρον</placeName> λεγόντα μόνους τὸυς βασιλεῖς ἥρωας λέγεσθαι ὑφ <persName
+                                    <placeName n="urn:cite:hmt:place.place250">Ἴστρον</placeName>
+                                λεγόντα μόνους τὸυς βασιλεῖς ἥρωας λέγεσθαι ὑφ <persName
                                     n="urn:cite:hmt:pers.pers17">Ὁμήρου</persName>⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A13" type="scholion">
+                        <div type="lemma">
+                            <p>τῶν πέρ τις καὶ μᾶλλον ἐέλδεται ἐξ ἔρον εἶναι ἢ πολέμου, Τρῶες δὲ
+                                μάχης ακόρητοι εασιν·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.638-639</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὁ νοῦς πᾶς τις φησὶ τῶν τερπνῶν βούλεται κορεσθῆναι ἢ τοῦ πολέμου, οἱ
+                                δε τρῶες οὐχ οὕτως⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A14" type="scholion">
+                        <div type="lemma">
+                            <p>ἐς δίφρον δ᾽ ἀνέσσαντες.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.657</p>
+                        </div>
+                        <div type="comment">
+                            <p>Ἀπολλώνιος ὁ ῥόδιος ἐν τῷ προς Ζηνόδοτον ἐς δίφρον ἀναθέντες⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A15" type="scholion">
+                        <div type="lemma">
+                            <p>ἀχνύμενοι μετὰ δέ σφι <gap unit="words" extent="4"/> ποινὴ δ᾽ οὔ τις
+                                παιδὸς <gap unit="words" extent="2"/></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.658-659</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀθετοῦνται ἀμφότεφοι ὃτι πλανηθείς τις ἐκ τοῦ ὃ σρα πατρι φίλῳ ἓπετο
+                                ἔταξεν αὐτοὺς ἳνα καὶ ὁ πατὴρ τὸν υἱὸν ὀδύρηται· οὐ λὲγει δὲ νῦν
+                                ἓπετο᾽. ἀλλ᾽ ὃτε τὸ πρῶτον ἐκ τῆς πατριδος παρεγίνετο διὸ καὶ
+                                πρὸσκειται τὸ ἑς τροίην οὐδ᾽ αὐτις ἀφίκετο εἰ δὲ μένοιεν οἱ στίχοι
+                                οῦτοι νοητέον ὁμωνθμίαν εἶναι⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A16" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.658</p>
+                        </div>
+                        <div type="comment">
+                            <p>ζητεὶται πῶς ἀνωτέρῳ ἀνῃρημένος ὑπο Μενελάου ό Πυλαιμενης τάδ νῦν
+                                δύνανται ἀκολουθεῖν τῷ παιδὶ καὶ κλαίειν. ἔστι δὲ λέγειν ὅτι δύο
+                                Πυλαιμένεις Παφλαγόνων ἡγεμόνασ συνίστησιν ὁ ποιητὴσ ὡσ Αἴαντας δύο
+                                κήρυκας τὸν μὲν Ἀγαμέμνονος τὸν δὲ Ὀδυσσέος ενιοι δὲ πιθανῶσ
+                                μεταγράφουσι μετα δ ού σφι πατῆρ κίε δάκρυα λείβων⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A17" type="scholion">
+                        <div type="lemma">
+                            <p>ποὶνη δ' οὔ τις παιδὸσ ἐγίνετο τεθνηιῶτος</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.659</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐπεὶ ὁ Ἀλέξανδρος χαλεπήνας, ὑπερ τοῦ ἀνηρημενου Εὐχήνορα τὸν Κορίνθιου ἀναιρεῖ⁑</p>
                         </div>
                     </div>
                 </body>
