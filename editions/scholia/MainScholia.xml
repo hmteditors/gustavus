@@ -180,7 +180,7 @@
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A13" type="scholion">
                         <div type="lemma">
-                            <p>τῶν πέρ τις καὶ μᾶλλον ἐέλδεται ἐξ ἔρον εἶναι ἢ πολέμου, Τρῶες δὲ
+                            <p>τῶν πέρ τις καὶ μᾶλλον ἐέλδεται ἐξ ἔρον εἶναι ἢ πολέμου, <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶες</rs> δὲ
                                 μάχης ακόρητοι εασιν·</p>
                         </div>
                         <div type="ref">
@@ -188,7 +188,7 @@
                         </div>
                         <div type="comment">
                             <p>ὁ νοῦς πᾶς τις φησὶ τῶν τερπνῶν βούλεται κορεσθῆναι ἢ τοῦ πολέμου, οἱ
-                                δε τρῶες οὐχ οὕτως⁑</p>
+                                δε <rs type="ethnic" n="urn:cite:hmt:place.place6">τρῶες</rs> οὐχ οὕτως⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A14" type="scholion">
@@ -199,7 +199,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.657</p>
                         </div>
                         <div type="comment">
-                            <p>Ἀπολλώνιος ὁ ῥόδιος ἐν τῷ προς Ζηνόδοτον ἐς δίφρον ἀναθέντες⁑</p>
+                            <p><persName n="urn:cite:hmt:pers.pers88">Ἀπολλώνιος</persName> ὁ ῥόδιος ἐν τῷ προς <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτον</persName> ἐς δίφρον ἀναθέντες⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A15" type="scholion">
@@ -226,10 +226,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.658</p>
                         </div>
                         <div type="comment">
-                            <p>ζητεὶται πῶς ἀνωτέρῳ ἀνῃρημένος ὑπο Μενελάου ό Πυλαιμενης τάδ νῦν
+                            <p>ζητεὶται πῶς ἀνωτέρῳ ἀνῃρημένος ὑπο <persName n="urn:cite:hmt:pers.pers119">Μενελάου</persName> ό <persName n="urn:cite:hmt:pers.pers161">Πυλαιμενης</persName> τάδ νῦν
                                 δύνανται ἀκολουθεῖν τῷ παιδὶ καὶ κλαίειν. ἔστι δὲ λέγειν ὅτι δύο
-                                Πυλαιμένεις Παφλαγόνων ἡγεμόνασ συνίστησιν ὁ ποιητὴσ ὡσ Αἴαντας δύο
-                                κήρυκας τὸν μὲν Ἀγαμέμνονος τὸν δὲ Ὀδυσσέος ενιοι δὲ πιθανῶσ
+                                <persName n="urn:cite:hmt:pers.pers161">Πυλαιμένεις</persName> <placeName n="urn:cite:hmt:place.place262">Παφλαγόνων</placeName> ἡγεμόνασ συνίστησιν ὁ ποιητὴσ ὡσ <persName n="urn:cite:hmt:pers.pers668">Αἴαντας</persName> δύο
+                                κήρυκας τὸν μὲν <persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνονος</persName> τὸν δὲ <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσέος</persName> ενιοι δὲ πιθανῶσ
                                 μεταγράφουσι μετα δ ού σφι πατῆρ κίε δάκρυα λείβων⁑</p>
                         </div>
                     </div>
@@ -241,7 +241,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.659</p>
                         </div>
                         <div type="comment">
-                            <p>ἐπεὶ ὁ Ἀλέξανδρος χαλεπήνας, ὑπερ τοῦ ἀνηρημενου Εὐχήνορα τὸν Κορίνθιου ἀναιρεῖ⁑</p>
+                            <p>ἐπεὶ ὁ <persName n="urn:cite:hmt:pers.pers110">Ἀλέξανδρος</persName> χαλεπήνας, ὑπερ τοῦ ἀνηρημενου Εὐχήνορα τὸν <placeName n="urn:cite:hmt:place.place165">Κορίνθιου</placeName> ἀναιρεῖ⁑</p>
                         </div>
                     </div>
                 </body>
