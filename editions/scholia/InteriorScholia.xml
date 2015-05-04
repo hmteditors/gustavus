@@ -62,6 +62,17 @@
                             <p>τοῦτο· ἀπ άλλησ ἀρχῆσ ἀναγνωστεον λειπει γὰρ τὸ <sic>εἴστέ</sic> ἢ τὸ εσμέν</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.A5" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.657</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι θηλυκῶς τὴν <placeName n="urn:cite:hmt:place.place6">ΐλιον</placeName>⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>

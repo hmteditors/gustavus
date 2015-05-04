@@ -34,7 +34,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.569@ἀλεγεινὸς/p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.569@ἀλεγεινὸς</p>
                         </div>
                         <div type="comment">
                             <p>νὺν καίριοσ</p>
@@ -49,6 +49,17 @@
                         </div>
                         <div type="comment">
                             <p>ομου συνήλθον</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:13.A4" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.659@ποινὴ</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὰ ὑποφόνια⁑</p>
                         </div>
                     </div>
                 </body>
