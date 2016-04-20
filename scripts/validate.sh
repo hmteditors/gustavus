@@ -15,4 +15,4 @@ gradle clean
 
 echo Beginning verification for folio $1
 
-gradle -Pfolio=$1 -Pconf=/vagrant/gustavus/configs/vm-mom-config.gradle dse
+gradle -Pfolio=$1 -Pconf=/vagrant/gustavus/configs/vm-mom-config.gradle validate

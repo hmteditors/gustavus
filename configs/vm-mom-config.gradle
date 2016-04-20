@@ -2,6 +2,7 @@ project.ext {
 
   textInventory="/vagrant/gustavus/editions/inventory.xml"
   textArchive="/vagrant/gustavus/editions"
+  invSchema="/vagrant/gustavus/editions/schemas/TextInventory.rng"
 
     // Lists of index files to use in verification:
     folioToImage = "/vagrant/gustavus/indices/venA-folioToImage.csv"
@@ -10,5 +11,19 @@ project.ext {
     textToFolio = "/vagrant/gustavus/indices/venA-textToFolio-Iliad.csv"
 
     scholiaInventories = "/vagrant/gustavus/collections/venA-exterior.csv,/vagrant/gustavus/collections/venA-intermarginal.csv,/vagrant/gustavus/collections/venA-interior.csv,/vagrant/gustavus/collections/venA-mainScholia.csv,/vagrant/gustavus/collections/venA-interlinear.csv"
+
+    codexModel = "/vagrant/gustavus/collections/codexModels/venetusA.csv"
+
+
+
+    //   For concordion:
+   mdSrc = "specs/md"
     
+    htmlPreface = """
+<html xmlns:concordion="http://www.concordion.org/2007/concordion">
+<body>
+    """
+    htmlEnd = "</body>\n</html>\n"
+
+    tokenMap = [    "openex": "<div class='example'>", "closeex" : "</div>"]      
 }
