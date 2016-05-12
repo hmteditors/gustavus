@@ -372,13 +372,13 @@
         <l n="789">βὰν δ᾽ ΐμεν ἔνθα μάλιστα μάχη καὶ φύλοπις ῆεν.</l>
         <l n="790">ἀμφί τε <persName n="urn:cite:hmt:pers.pers506">Κεβριόνην</persName>. καὶ ἀμύμονα
             <persName n="urn:cite:hmt:pers.pers480">Πουλυδάμαντα</persName>.</l>
-        <l n="791"><persName n="urn:cite:hmt:pers.pers915">Φάλκην</persName>. <persName n="">Ὀρθαῖόν</persName> τε. καὶ ἀντίθεον <persName n=""
-            >Πολυφήτην</persName></l>
+        <l n="791"><persName n="urn:cite:hmt:pers.pers915">Φάλκην</persName>. <persName n=""
+            >Ὀρθαῖόν</persName> τε. καὶ ἀντίθεον <persName n="">Πολυφήτην</persName></l>
         <l n="792"><persName n="">Πάλμύν</persName> τ᾽. <persName n="urn:cite:hmt:pers.pers769"
-            >Ἀσκάνιόν</persName> τε, <persName n="urn:cite:hmt:pers.pers917">Μόρυν</persName> θ᾽ υἷ᾽
+            >Ἀσκάνιόν</persName> τε, <persName n="urn:cite:hmt:pers.pers917">Μόρυν</persName> θ᾽ <add place="supralinear">υἷ᾽</add>
             <persName n="urn:cite:hmt:pers.pers918">Ἱπποτίωνος</persName>·</l>
         <l n="793">οἵ ῥ᾽ ἐξ <placeName n="urn:cite:hmt:place.place410">Ἀσκανίης</placeName>
-          ἐριβώλακος ἦλθον ἀμοιβοὶ</l>
+          ἐριβώλακος ἦλθον <choice><sic>ἀμοιβοῖ</sic><corr>ἀμοιβοὶ</corr></choice></l>
         <l n="794">ἠοῖ τῇ προτέρῃ: τότε δὲ <persName n="urn:cite:hmt:place.place410">Ζεὺς</persName>
           ὦρσε μάχεσθαι·</l>
         <l n="795">οἱ δ᾽ ΐσαν. ἀργαλέων ἀνέμων ἀτάλαντοι ἀέλλῃ</l>
@@ -386,7 +386,7 @@
           εῖσι πέδον δὲ,</l>
         <l n="797">θεσπεσίῳ δ᾽ ὁμάδῳ ἁλὶ μίσγεται. ἐν δέ τε πολλὰ</l>
         <l n="798">κύματα παφλάζοντα. πολυφλοίσβοιο θαλάσσης.</l>
-        <l n="799">κυρτὰ, φαληριόωντα. πρὸ μέν τ᾽ ἄλλ᾽. αὐτὰρ ἐπ᾽ ἄλλα·</l>
+        <l n="799">κυρτὰ, φαληριόωντα. πρὸ μέν <choice><orig>τ᾽</orig><reg>τε</reg></choice> ἄλλ᾽. αὐτὰρ ἐπ᾽ ἄλλα·</l>
         <l n="800">ὡς <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶες</rs>. πρὸ μὲν ἄλλοι
           ἀρηρότες, αὐτὰρ ἐπ᾽ ἄλλοι.</l>
         <l n="801">χαλκῷ μαρμαίροντες, ἅμ᾽ ἡγεμόνεσσιν ἕποντο.</l>
@@ -398,8 +398,8 @@
         <l n="805">ἀμφὶ δέ οἱ κροτάφοισι φαεινὴ σείετο πήληξ·</l>
         <l n="806">πάντῃ δ᾽ ἀμφὶ φάλαγγας ἐπειρᾶτο προποδίζων</l>
         <l n="807">εἴ, πώς, οἱ, εἴξειαν ὑπ' ἀσπίδια προβιβῶντι</l>
-        <l n="808">ἂλλ᾽ οὐ σύγχει θυμὸν ἐνί στήθεσσιν <rs type="ethnic" n="urn:cite:hmt:place.place96"
-            >Ἀχαιῶν</rs>·</l>
+        <l n="808">ἂλλ᾽ οὐ σύγχει θυμὸν ἐνί στήθεσσιν <rs type="ethnic"
+            n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs>·</l>
         <l n="809"><persName n="urn:cite:hmt:pers.pers127">Αἴας</persName> δὲ πρῶτος προκαλέσσατο
           μακρὰ βιβάσθων:</l>
         <l n="810">δαιμόνιε. σχεδὸν ἐλθέ. τί ὴ δειδίσσεαι αύτως</l>
@@ -407,7 +407,8 @@
           ἀδαήμονές εἰμεν·</l>
         <l n="812">ἀλλὰ <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> μάστιγι κακῇ ἐδάμημεν
             <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιοί</rs>·</l>
-        <l n="813">ῆ, θήν, που τοι θυμὸς ἐέλπεται ἐξαλαπάξειν</l>      </div>
+        <l n="813">ῆ, θήν, που τοι θυμὸς ἐέλπεται ἐξαλαπάξειν</l>
+      </div>
     </body>
   </text>
 </TEI>
