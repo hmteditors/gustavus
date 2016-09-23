@@ -243,6 +243,16 @@
                         <div type="comment">
                             <p>ἐπεὶ ὁ <persName n="urn:cite:hmt:pers.pers110">Ἀλέξανδρος</persName> χαλεπήνας, ὑπερ τοῦ ἀνηρημενου Εὐχήνορα τὸν <placeName n="urn:cite:hmt:place.place165">Κορίνθιου</placeName> ἀναιρεῖ⁑</p>
                         </div>
+                        <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A18" type="scholion">
+                        <div type="lemma">
+                            <p>ἦν δέ τις Εὐχήνωρ Πολυιδου μάντιος ὑιὸς.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.663</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
                     </div>
                 </body>
             </text>
