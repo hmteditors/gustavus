@@ -245,14 +245,36 @@
                         </div>
                         <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A18" type="scholion">
                         <div type="lemma">
-                            <p>ἦν δέ τις Εὐχήνωρ Πολυιδου μάντιος ὑιὸς.</p>
+                            <p>ἦν δέ τις Εὐχήνωρ <persName n="urn:cite:hmt:pers.pers842"> Πολυΐδου </persName> μάντιος ὑιὸς.</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.663</p>
                         </div>
                         <div type="comment">
+                            <p>ὁτι δισσὰς εἰμαρμένας, ὑποτίθεται τοῦ <persName n= urn:cite:hmt:pers.pers939> Εὐχήνορος </persName> καθάπερ καὶ ἐπ’ Αχιλλεως <cit><ref type="urn">urn:cts:greekLit:tlg00012.tlg001:9.411</ref><q>διχθαδίας κῆρας φερέμεν</q></cit>⁑ </p>
+                        </div>
+                        <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A19" type="scholion">
+                        <div type="lemma">
+                            <p>Ἕκτωρ δ’ ὀυκ επέπυστο διῒφίλος.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.659</p>
+                        </div>
+                        <div type="comment">
+                            <p>⁑</p>
+                        </div>
+                        <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A20" type="scholion">
+                        <div type="lemma">
                             <p></p>
                         </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.663</p>
+                        </div>
+                        <div type="comment">
+                            <p>⁑ </p>
+                        </div>
+                        
+        
                     </div>
                 </body>
             </text>
