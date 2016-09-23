@@ -251,7 +251,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.663</p>
                         </div>
                         <div type="comment">
-                            <p>ὁτι δισσὰς εἰμαρμένας, ὑποτίθεται τοῦ <persName n= urn:cite:hmt:pers.pers939> Εὐχήνορος </persName> καθάπερ καὶ ἐπ’ Αχιλλεως <cit><ref type="urn">urn:cts:greekLit:tlg00012.tlg001:9.411</ref><q>διχθαδίας κῆρας φερέμεν</q></cit>⁑ </p>
+                            <p>ὁτι δισσὰς εἰμαρμένας, ὑποτίθεται τοῦ <persName n= urn:cite:hmt:pers.pers939> Εὐχήνορος </persName> καθάπερ καὶ ἐπ’ Αχιλλεως <cit><ref type="urn">urn:cts:greekLit:tlg00012.tlg001:9.411</ref><q>διχθαδίας κῆρας φερέμεν</q></cit>⁑</p>
                         </div>
                         <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A19" type="scholion">
                         <div type="lemma">
@@ -265,6 +265,16 @@
                         </div>
                         <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A20" type="scholion">
                         <div type="lemma">
+                            <p>ἔνθ’ ἔίσαν.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.681</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers127">Αἴαντός</persName> τε νέες ὃτι τοῦ <placeName n="urn:cite:hmt:place.place269">Λοκροῦ</placeName> λέγει <persName n="urn:cite:hmt:pers.pers127">Αἴαντος</persName> οὗτος γὰρ πλησίον ἐνεώλκει τοῦ <persName n="urn:cite:hmt:pers.pers288">Πρωτεσιλάου</persName> προς τὰ περὶ τοῦ ναυστάθμου⁑</p>
+                        </div>
+                        <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A20" type="scholion">
+                        <div type="lemma">
                             <p></p>
                         </div>
                         <div type="ref">
@@ -273,7 +283,6 @@
                         <div type="comment">
                             <p>⁑ </p>
                         </div>
-                        
         
                     </div>
                 </body>
