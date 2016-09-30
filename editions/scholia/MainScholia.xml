@@ -304,7 +304,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.685</p>
                         </div>
                         <div type="comment">
-                            <p>οἱ ἐν Πελοποννήσω Φθιῶται οἱ ὑπὸ Ἀχιλλεὶ, Φθίοι οἱ ὑπο Πρωτεσιλάωι καὶ Φιλοκτήτηι⁑</p>
+                            <p>οἱ ἐν <placeName n="urn:cite:hmt:place.place269">Πελοποννήσω</placeName><rs type="ethnic" n="urn:cite:hmt:place.place34">Φθιῶται</rs></p> οἱ ὑπὸ <persName> n="urn:cite:hmt:pers.pers1">Ἀχιλλεὶ</persName>, <rs type="ethnic" n="urn:cite:hmt:place.place34">Φθίοι</rs> οἱ ὑπο <persName> n="urn:cite:hmt:pers.pers288">Πρωτεσιλάωι</persName> καὶ <persName> n="urn:cite:hmt:pers.pers291">Φιλοκτήτηι⁑</persName>
                         </div>
         
                     </div>
