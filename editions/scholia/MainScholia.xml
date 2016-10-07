@@ -309,7 +309,27 @@
         
                     </div>
                             </div>
-                               <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A20" type="scholion">
+                               <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A24" type="scholion">
+                        <div type="lemma">
+                            <p>σπουδῇ ἐπαΐσσοντα</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.687</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι τὸ <rs type="waw">σπουδῇ</rs>ἀντι τοῦ <rs type="waw">μόγις</rs> καὶ δυσεργῶς ἀπο τῶν νεῶν αὐτὸν ἀπείργων⁑ </p>
+                        </div>
+                                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A25" type="scholion">
+                        <div type="lemma">
+                            <p><persName n="urn:cite:hmt:pers.pers469">Φυλείδες</persName> τε <persName n="urn:cite:hmt:pers.pers497">Μέγης</persName></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.692</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἐν ἄλλοις οὐ νοῶν <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> ὅτι <persName n="urn:cite:hmt:pers.pers497">Μέγης</persName> <persName n="urn:cite:hmt:pers.pers469">Φυλέως</persName> ἐστὶ, γράϕει <persName n="urn:cite:hmt:pers.pers469">Φυλείδην</persName> τε <persName n="urn:cite:hmt:pers.pers497">Μέγην</persName> τε⁑ </p>
+                        </div>
+         <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A20" type="scholion">
                         <div type="lemma">
                             <p></p>
                         </div>
@@ -319,7 +339,6 @@
                         <div type="comment">
                             <p>⁑ </p>
                         </div>
-        
                     </div>
                     </div>
                 </body>
