@@ -62,6 +62,39 @@
                             <p>τὰ ὑποφόνια⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:13.A5" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.678@σθέμει</p>
+                        </div>
+                        <div type="comment">
+                            <p>τῇ οικεία δυνάμει</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:13.A6" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.679@ᾗ</p>
+                        </div>
+                        <div type="comment">
+                            <p>αντὶ τοῦ όπου</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:13.A7" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.685@ϊάονες</p>
+                        </div>
+                        <div type="comment">
+                            <p>αθηναῖοι⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
