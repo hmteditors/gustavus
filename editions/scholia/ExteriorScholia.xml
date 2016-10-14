@@ -61,7 +61,37 @@
                         <div type="comment">
                             <p>φθεῖσαι</p>
                         </div>
-                    </div>
+                        </div>
+                        <div n="urn:cts:greekLit:tlg5026.msAext.hmt:13.A5" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.xxx</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                            <div n="urn:cts:greekLit:tlg5026.msAext.hmt:13.A4" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.667</p>
+                        </div>
+                        <div type="comment">
+                            <p>φθεῖσαι</p>
+                        </div>           
+                <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.667</p>
+                        </div>
+                        <div type="comment">
+                            <p>φθεῖσαι</p>
+                        </div>
+                   
                 </body>
             </text>
         </group>
