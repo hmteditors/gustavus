@@ -142,6 +142,28 @@
                                 <p><choice><abbr>βραχ</abbr><expan>βραχὺ</expan></choice>διασταλέον προς το σαφές⁑</p>
                             </div>
                         </div>
+                        <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A12" type="scholion">
+                            <div type="lemma">
+                                <p/>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.692</p>
+                            </div>
+                            <div type="comment">
+                                <p>οὕτως <persName n="urn:cite:hmt:pers.pers497">Μέγης</persName> έξω τοῦ <rs type="waw">τε</rs> οὐ γαρ εστί <persName n="urn:cite:hmt:pers.pers497">Φυλείδης</persName></p>
+                            </div>
+                        </div>
+                        <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A13" type="scholion">
+                            <div type="lemma">
+                                <p> <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> <p/>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.702</p>
+                            </div>
+                            <div type="comment">
+                                <p>χόζετ' απ' <persName n="urn:cite:hmt:pers.pers281">Αίαντο</persName></p>
+                            </div>
+                        </div>
                     </div>
                 </body>
             </text>
