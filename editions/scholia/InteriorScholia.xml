@@ -51,7 +51,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.617</p>
                         </div>
                         <div type="comment">
-                            <p>oὕτωσ δια τοῦ <rs n="waw">σ</rs> ὁ πέσον⁑</p>
+                            <p>oὕτως δια τοῦ <rs n="waw">σ</rs> ὁ πέσον⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.A4" type="scholion">
@@ -87,6 +87,28 @@
                         </div>
                         <div type="comment">
                             <p>νῦν τὴν μέμψιν</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.A7" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.697</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι σὺν τῶι <rs type="waw">ο</rs></p><persName n="urn:cite:hmt:pers.pers478">ὀΐλεύς</persName>·
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.A8" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.725</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἐλλειπει ἡ πρὸς προς ἔκτορα⁑</p>
                         </div>
                     </div>
                 </body>
