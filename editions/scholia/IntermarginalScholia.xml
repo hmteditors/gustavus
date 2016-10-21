@@ -155,7 +155,7 @@
                         </div>
                         <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A13" type="scholion">
                             <div type="lemma">
-                                <p> <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> <p/>
+                                <p> <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> </p>
                             </div>
                             <div type="ref">
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.702</p>
@@ -166,16 +166,39 @@
                         </div>
                             <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A14" type="scholion">
                             <div type="lemma">
-                                <p><p/>
+                                <p></p>
                             </div>
                             <div type="ref">
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.705</p>
                             </div>
                             <div type="comment">
-                                <p>χωρὶς τοῦ ν̄  <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:13.705</ref><q>ἀνεκηκίει</q></cit> καὶ δια τοῦ ΐ̄.⁑</p>
+                                <p><choice><abbr>χω</abbr><expan>χωρὶς</expan></choice> τοῦ ν̄  <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:13.705</ref><q>ἀνεκηκίει</q></cit> καὶ δια τοῦ ΐ̄.⁑</p>
                             </div>
                         </div>
-                    </div>
+           
+                            <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A15" type="scholion">
+                            <div type="lemma">
+                                <p></p>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.713</p>
+                            </div>
+                            <div type="comment">
+                                <p><choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice><choice><abbr><persName n="urn:cite:hmt:pers.pers21">Ἀριστ</persName></abbr><expan><persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName></expan></choice><choice><abbr>χω</abbr><expan>χωρὶς</expan></choice> τοῦ ν̄ σφι,<choice><abbr><persName n="urn:cite:hmt:pers.pers21">Ἀριστοφα</persName></abbr><expan><persName n="urn:cite:hmt:pers.pers21">Ἀριστοφάνης</persName></expan></choice>δὲ σὺν τῷ ν̄</p>
+                            </div>
+                                 </div>
+                                </div>
+                            <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A16" type="scholion">
+                            <div type="lemma">
+                                <p></p>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.724</p>
+                            </div>
+                            <div type="comment">
+                                <p></p>
+                            </div>
+                      </div>
                 </body>
             </text>
         </group>
