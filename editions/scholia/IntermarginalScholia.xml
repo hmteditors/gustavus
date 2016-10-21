@@ -164,6 +164,17 @@
                                 <p>χόζετ' απ' <persName n="urn:cite:hmt:pers.pers281">Αίαντο</persName></p>
                             </div>
                         </div>
+                            <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A14" type="scholion">
+                            <div type="lemma">
+                                <p><p/>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.705</p>
+                            </div>
+                            <div type="comment">
+                                <p>χωρὶς τοῦ ν̄  <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:13.705</ref><q>ἀνεκηκίει</q></cit> καὶ δια τοῦ ΐ̄.⁑</p>
+                            </div>
+                        </div>
                     </div>
                 </body>
             </text>
