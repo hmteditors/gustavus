@@ -172,7 +172,7 @@
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.705</p>
                             </div>
                             <div type="comment">
-                                <p><choice><abbr>χω</abbr><expan>χωρὶς</expan></choice> τοῦ ν̄  <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:13.705</ref><q>ἀνεκηκίει</q></cit> καὶ δια τοῦ ΐ̄.⁑</p>
+                                <p><choice><abbr>χω</abbr><expan>χωρὶς</expan></choice> τοῦ ν̄  <cit><q>ἀνεκηκίει</q></cit> καὶ δια τοῦ ΐ̄.⁑</p>
                             </div>
                         </div>
            
@@ -196,9 +196,42 @@
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.724</p>
                             </div>
                             <div type="comment">
+                                <p>ὅτι<choice><abbr>θηλυκ</abbr><expan>θηλυκῶς</expan></choice><choice><abbr>τ</abbr><expan>τὴν</expan></choice><q>Ïλιὸν</q>⁑</p>
+                            </div>
+                            </div>
+                            <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A17" type="scholion">
+                            <div type="lemma">
                                 <p></p>
                             </div>
-                      </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.733</p>
+                            </div>
+                            <div type="comment">
+                                <p><choice><abbr><persName n="urn:cite:hmt:pers.pers21">Ἀριστοφ</persName></abbr><expan><persName n="urn:cite:hmt:pers.pers21">Ἀριστοφάνης</persName></expan></choice> <choice><abbr>πολλ</abbr><expan>πολλόν</expan></choice>⁑</p>
+                            </div>
+                            </div>
+                            <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A18" type="scholion">
+                            <div type="lemma">
+                                <p></p>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.724</p>
+                            </div>
+                            <div type="comment">
+                                <p></p>
+                            </div>
+                            </div>
+                            <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A19" type="scholion">
+                            <div type="lemma">
+                                <p></p>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.724</p>
+                            </div>
+                            <div type="comment">
+                                <p></p>
+                            </div>
+                            </div>
                 </body>
             </text>
         </group>
