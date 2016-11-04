@@ -232,6 +232,39 @@
                                 <p></p>
                             </div>
                             </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A19" type="scholion">
+                            <div type="lemma">
+                                <p></p>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.724</p>
+                            </div>
+                            <div type="comment">
+                                <p></p>
+                            </div>
+                            </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A20" type="scholion">
+                            <div type="lemma">
+                                <p></p>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.740</p>
+                            </div>
+                            <div type="comment">
+                                <p>ὅτι ἀρίστους τοὺς ἀριστέας πρὸς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.580</ref><q>ούνεκ᾽ αριστος ἔην</q></cit></p>
+                            </div>
+                            </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A20" type="scholion">
+                            <div type="lemma">
+                                <p></p>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.</p>
+                            </div>
+                            <div type="comment">
+                                <p></ref><q>ούνεκ᾽ αριστος ἔην</q></cit></p>
+                            </div>
+                            </div>
                 </body>
             </text>
         </group>
