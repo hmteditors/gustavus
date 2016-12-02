@@ -95,6 +95,39 @@
                             <p>αθηναῖοι⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:13.A8" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.703@νηῷ</p>
+                        </div>
+                        <div type="comment">
+                            <p>ηρωτριασμενη γη</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:13.A9" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.703@οἴνοπε</p>
+                        </div>
+                        <div type="comment">
+                            <p>μέλαιναι</p>
+                        </div>
+                    </div>
+                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:13.A7" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.@</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
