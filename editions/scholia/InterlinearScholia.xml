@@ -139,7 +139,29 @@
                             <p>έπεισε</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:13.A7" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:13.A12" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.809@βιβάσθων</p>
+                        </div>
+                        <div type="comment">
+                            <p>διαβαίνων:</p>
+                        </div>
+                    </div>
+                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:13.A13" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.@τί ὴ</p>
+                        </div>
+                        <div type="comment">
+                            <p>τί δη</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:13.A" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -149,15 +171,16 @@
                         <div type="comment">
                             <p></p>
                         </div>
-                        <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.788@έπεισεν</p>
-                        </div>
-                        <div type="comment">
-                            <p>έπεισε</p>
-                        </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:13.A7" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:13.A" type="scholion">
                         <div type="lemma">
                             <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.@</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
                         </div>
                     </div>
                 </body>
