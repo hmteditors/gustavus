@@ -155,32 +155,32 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.@τί ὴ</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.810@τί ὴ</p>
                         </div>
                         <div type="comment">
                             <p>τί δη</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:13.A" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:13.A14" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.@</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.817@ὁππότε φεύγων</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>τοῦτο φησιν όπερ ἐπάγει</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:13.A" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:13.A15" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.@</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.830@λειριόεντα</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>ης τὸν χρόα</p>
                         </div>
                     </div>
                 </body>
