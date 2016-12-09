@@ -132,17 +132,16 @@
                         <div type="comment">
                             <p>ὅτι πάλιν συλληπτικῶς οἱ μὲν γὰρ ἐβέβληντο οἰ δὲ οὐταμένοι ᾖσαν⁑</p>
                         </div>
-                    </div>
-                    
-                   <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.A10" type="scholion">
+                    </div> 
+                    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.A11" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.725</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.773</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι ἐλλειπει ἡ πρὸς προς ἔκτορα⁑</p>
+                            <p>ὅτι θηλυκῶς ἡ <placeName n="urn:cite:hmt:place.place6">Ἴ̈λιος</placeName> καὶ τὸ <rs type="waw">τοι</rs> παρέλκει οὐ γὰρ αὐτῷ μόνῳ ἢν <choice><abbr>ὀλεθρ'</abbr><expan>ὀλεθρος</expan></choice> ἀλλα καὶ τοῖς ἄλλοις⁑</p>
                         </div>
                     </div>
                 </body>
