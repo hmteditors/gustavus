@@ -275,15 +275,48 @@
                                 <p><choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice><choice><abbr>μετ</abbr><expan>μετὰ</expan></choice> τοῦ <choice><abbr>συνδ</abbr><expan>συνδέσμου</expan></choice> θεσπεσίῳ δ' ὁμάδω⁑⁑</p>
                             </div>
                     </div>  
-                   <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A24" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A24" type="scholion">
                             <div type="lemma">
-                                <p></p>
+                                <p/>
                             </div>
                             <div type="ref">
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.810</p>
                             </div>
                             <div type="comment">
                                 <p><choice><abbr><persName n="urn:cite:hmt:pers.pers16">Ἀριστ</persName></abbr><expan><persName n="urn:cite:hmt:pers.pers16">Ἀριστάρχος</persName></expan></choice> αύτως ἄλλοις ούτως</p>
+                            </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A25" type="scholion">
+                            <div type="lemma">
+                                <p/>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.820</p>
+                            </div>
+                            <div type="comment">
+                                <p>ὅτι <choice><abbr>ελλειπ</abbr><expan>ἐλλείπει</expan></choice> ἡ <rs type="waw">δια</rs> δια πλοίου</p>
+                            </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A26" type="scholion">
+                            <div type="lemma">
+                                <p></p>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.830</p>
+                            </div>
+                            <div type="comment">
+                                <p>ης τὸν χρόα</p>
+                            </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:13.A27" type="scholion">
+                            <div type="lemma">
+                                <p></p>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.832</p>
+                            </div>
+                            <div type="comment">
+                                <p>ἐν αλλῷ παρα νηυσίν⁑</p>
                             </div>
                     </div>
                 </body>
