@@ -150,7 +150,7 @@
                             <p>διαβαίνων:</p>
                         </div>
                     </div>
-                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:13.A13" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:13.A13" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -166,13 +166,24 @@
                             <p/>
                         </div>
                         <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.815@ὑμὴ</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὑμετέρα</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:13.A15" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.817@ὁππότε φεύγων</p>
                         </div>
                         <div type="comment">
                             <p>τοῦτο φησιν όπερ ἐπάγει</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:13.A15" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:13.A16" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
