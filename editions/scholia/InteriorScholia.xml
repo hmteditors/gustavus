@@ -167,15 +167,17 @@
                             <p><choice><abbr>αντ</abbr><expan>αντὶ</expan></choice>αλεξησεως καὶ βοηθείας⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.A14" type="scholion">
+                     <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.A14" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.797</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.786</p>
                         </div>
                         <div type="comment">
-                            <p><choice><abbr>ουτ</abbr><expan>ουτως</expan></choice><choice><abbr>μετ</abbr><expan>μετὰ</expan></choice>τοῦ<choice><abbr>συνδ</abbr><expan>συνδέσμου</expan></choice>θεσπεσίωι δ᾽ὁμάδω⁑</p>
+                            <p><choice><abbr>αντ</abbr><expan>αντὶ</expan></choice>αλεξησεως καὶ βοηθείας⁑</p>
+                        </div>
+                    </div>
                         </div>
                     </div>
                 </body>
