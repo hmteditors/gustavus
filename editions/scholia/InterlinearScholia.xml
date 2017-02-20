@@ -182,18 +182,7 @@
                         <div type="comment">
                             <p>τοῦτο φησιν όπερ ἐπάγει</p>
                         </div>
-                    </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:13.A16" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.830@λειριόεντα</p>
-                        </div>
-                        <div type="comment">
-                            <p>ης τὸν χρόα</p>
-                        </div>
-                    </div>
+                    </div> 
                 </body>
             </text>
         </group>
