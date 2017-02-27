@@ -398,6 +398,39 @@
                             <p>περισπαστέον τὸ <rs type="waw">πολεῖς</rs> ὡς <rs type="waw">ταχεῖς</rs> ὁμοίως τὸ <cit>πολεῖς ὄλεσαντ' αἰζηούς</cit>· τοῦτο δέ φημι ἐπεὶ τινὲς βούλονται ἕνεκα ἐμφάσεως μείζονος βαρυτόνως ἀναγινώσκειν οἷς μάχεται καὶ ἡ ὀρθογραφία ἠ κατ' <rs type="ethnic" n="urn:cite:hmt:place.place79">ΐονας</rs>. ἡ διπλῆ δὲ ὅτι κατὰ συναλοιφὴν ἐκληπτέον ἵνα διαιρεῆται μάλιστα δὲ καὶ αὐτὸς⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A31" type="scholion">
+                        <div type="lemma">
+                            <p>πάντη γὰρ σε περὶ στέφανος,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.736</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι στέφανον ἡρωϊκὸν πρόσωπον ὠνόμακοεν διὰ τῶν γενομένων ἀυτῶν · οὔτε γὰρ ὁι τῆς <persName n="urn:cite:hmt:pers.pers284">Πηνελόπης</persName> μνηστῆρες , οὐθ' οἱ <rs type="ethnic" n="urn:cite:hmt:place.place164">Φαίακες</rs>, οὔθ' ὁι ἐπὶ τῶν θυσιῶν ἐστέφοντο ἀλλ' ἴσως ἀπο <w><add place="supralinear">τῆς</add></w> κατὰ τὴν ἐμπλοκὴν στεφάνης δια τὸ κυκλοτερὲς εἴρηται⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A32" type="scholion">
+                        <div type="lemma">
+                            <p>δείδω μη το χθιζὸν</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.745</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι μεταφορικῶς χθιζὸν χρεῖος τῷ ἴσῳ σταθμῷ ἁποκαταστήσωσι τοῦτέστι μὴ ὁ ἡμεῖς ἑλὰβομεν χθὲς νικῶντες σήμερ`' εἰσπράξωσιν⁑ ἄλλως μή πως τὴν χθεσίνὴν ἤτγαν ἀποδώσουσιν ἡμῖν, οὶ <rs type="ethnic" n="urn:cite:hmt:place.place3">Ἕλληνες</rs> ὥσπερ, σταθμῷ δεδανεικόντες, μηδέπω γὰρ νομισμάτων ὑπαρχόντων, σταθμῷ ἐδάνειζον οἱ ἀρχαῖοι χρυσίον καὶ ἀργύριον καὶ τὰ παραπλήσια⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A33" type="scholion">
+                        <div type="lemma">
+                            <p>ῆ ρα καὶ ὠρμήθη ὄρεϊ νιφόεντι</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.754</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι νιφόεντα τὰ όρη καὶ <placeName n="urn:cite:hmt:place.place45">ὄλυμπος</placeName>· τοιγαροῦν όρος νιφόεις γὰρ λέγεται⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
