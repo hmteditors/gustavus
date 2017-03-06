@@ -228,8 +228,8 @@
                         <div type="comment">
                             <p>ζητεὶται πῶς ἀνωτέρῳ ἀνῃρημένος ὑπο <persName n="urn:cite:hmt:pers.pers119">Μενελάου</persName> ό <persName n="urn:cite:hmt:pers.pers161">Πυλαιμενης</persName> τάδ νῦν
                                 δύνανται ἀκολουθεῖν τῷ παιδὶ καὶ κλαίειν. ἔστι δὲ λέγειν ὅτι δύο
-                                <persName n="urn:cite:hmt:pers.pers161">Πυλαιμένεις</persName> <placeName n="urn:cite:hmt:place.place262">Παφλαγόνων</placeName> ἡγεμόνασ συνίστησιν ὁ ποιητὴσ ὡσ <persName n="urn:cite:hmt:pers.pers668">Αἴαντας</persName> δύο
-                                κήρυκας τὸν μὲν <persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνονος</persName> τὸν δὲ <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσέος</persName> ενιοι δὲ πιθανῶσ
+                                <persName n="urn:cite:hmt:pers.pers161">Πυλαιμένεις</persName> <placeName n="urn:cite:hmt:place.place262">Παφλαγόνων</placeName> ἡγεμόνασ συνίστησιν ὁ ποιητὴς ὡς <persName n="urn:cite:hmt:pers.pers668">Αἴαντας</persName> δύο
+                                κήρυκας τὸν μὲν <persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνονος</persName> τὸν δὲ <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσέος</persName> ενιοι δὲ πιθανῶς
                                 μεταγράφουσι μετα δ ού σφι πατῆρ κίε δάκρυα λείβων⁑</p>
                         </div>
                     </div>
@@ -429,6 +429,50 @@
                         </div>
                         <div type="comment">
                             <p>ὅτι νιφόεντα τὰ όρη καὶ <placeName n="urn:cite:hmt:place.place45">ὄλυμπος</placeName>· τοιγαροῦν όρος νιφόεις γὰρ λέγεται⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A34" type="scholion">
+                        <div type="lemma">
+                            <p>καὶ <persName n="urn:cite:hmt:pers.pers503">ἄσιον</persName> <persName n="urn:cite:hmt:pers.pers1075">ὑρτάκου</persName> υἱὸν</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.759</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers1075">ὑρτάκου</persName> ὡς θυλάκου τὰ γὰρ εἰς <rs type="waw">κὸς</rs> λήγοντα τρίσυλλαβα τὴν πρώτην συλλαβὴν εἰς αμετάβολον καταλήγουσαν ἔχοντα προπαροξύνεται. λάμψακος ῥύνδακος <q>ῥύνδακον ἀμφὶ βαθύσχοινον</q>· οὕτως οὖν καὶ <persName n="urn:cite:hmt:pers.pers1075">ὕρτακος</persName>⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A35" type="scholion">
+                        <div type="lemma">
+                            <p>τοὺς δ' εῦρ' οὐκέτι πάμπαν</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.761</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι συλλητικῶς ἐπι τῶν τετρωμένων καὶ τῶν ἀπολωλότων· οὐ πάμπαν μὲν γὰρ ἀπήμονες οἱ τραυματίαι οὐκ ἀνόλεθροι δὲ οἱ τετελευτηκότες⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A36" type="scholion">
+                        <div type="lemma">
+                            <p>βεβλημένοι ουταμενοι τε</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.764</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀντι τοῦ οἱ μὲν ἀπο μήκους βεβλημένοι δόρατι ἢ 'ϊῷ , οἱ δὲ ἐκ τοῦ ἐγγὺς τετρωμένοι ξίφει ἥ τινι τοιοῦτο⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A37" type="scholion">
+                        <div type="lemma">
+                            <p>κατάκρης</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.772</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἕως τῆς ἀκροπόλεως· τινὲς δὲ κρῆς μονοσυλλάβως, ἐπεὶ καὶ κρῆθεν φησίν⁑</p>
                         </div>
                     </div>
                 </body>
