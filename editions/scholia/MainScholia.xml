@@ -461,7 +461,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.764</p>
                         </div>
                         <div type="comment">
-                            <p>ἀντι τοῦ οἱ μὲν ἀπο μήκους βεβλημένοι δόρατι ἢ 'ϊῷ , οἱ δὲ ἐκ τοῦ ἐγγὺς τετρωμένοι ξίφει ἥ τινι τοιοῦτο⁑</p>
+                            <p>ἀντι τοῦ οἱ μὲν ἀπο μήκους βεβλημένοι δόρατι ἢ ἰ¨ῷ , οἱ δὲ ἐκ τοῦ ἐγγὺς τετρωμένοι ξίφει ἥ τινι τοιοῦτο⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A37" type="scholion">
@@ -473,6 +473,50 @@
                         </div>
                         <div type="comment">
                             <p>ἕως τῆς ἀκροπόλεως· τινὲς δὲ κρῆς μονοσυλλάβως, ἐπεὶ καὶ κρῆθεν φησίν⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A38" type="scholion">
+                        <div type="lemma">
+                            <p>ποῦ τοι <persName n="urn:cite:hmt:pers.pers508">Δηΐφοβός</persName> τε,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.770</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἠθικῶς ὁποῦ ἐνταῦθα οὐ γὰρ πάρελκει, ἀλλ' ἐχει χώραν κυριωτάτην, ἐπεὶ καὶ τὸ ὄλον δι <persName n="urn:cite:hmt:pers.pers129">Ἀλέξανδρπον</persName> <w>πρά<unclear>￿</unclear></w>⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A39" type="scholion">
+                        <div type="lemma">
+                            <p>οἴχεσθον μακροῖσι τετυμμένῳ</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.782</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι συλληπτικῶς τὸ τῷ ἑτέρῳ συμβεβηκῶς ἐπ' αμφοτέρων τέταχεν, οὐ γὰρ ἀμφότεροι ἐπύτησαν. ἀλλ' ὁ μεν <persName n="urn:cite:hmt:pers.pers507">ἕλενος</persName> ἐβλήθη ὁ δε <persName n="urn:cite:hmt:pers.pers508">δηΐφοβος</persName> ἐτύπη⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A40" type="scholion">
+                        <div type="lemma">
+                            <p>παρ δύδαμιν οὐκ έστι καὶ ἐσσύμενον πολεμίζειν·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.782</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸ ἑξῆς οὐκ έστι πολεμίζειν τὸ δὲ ἐσσύμενος διὰ μέσου οὕτως οὖν διορθωτέον διαστολῇ ἑκατερωθεν⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A41" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.782</p>
+                        </div>
+                        <div type="comment">
+                            <p>⁑</p>
                         </div>
                     </div>
                 </body>
