@@ -513,10 +513,21 @@
                             <p></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.782</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.791</p>
                         </div>
                         <div type="comment">
                             <p>⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A42" type="scholion">
+                        <div type="lemma">
+                            <p>οἵ ρ' ἐξ <placeName n="urn:cite:hmt:place.place410">ασκανίης</placeName></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.793</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἀμοιβοὶ οἱ διαδεξάμενοι τὸυς ἔμπροσθεν παραγενομένους ἐπικούρους ἤτοι οἱ εξαμοιβῆς καὶ ἐναλλάξεως παραγεγονότες συμμαχῆσαι τοῖς <rs type="ethnic" n="urn:cite:hmt:place.place6">τρωσὶν</rs>, ἀντι τὸν πρότερον <w>συνερ<unclear>􀀀</unclear>γούντων</w> αὐτοῖς πολιτῶν, δια γὰρ τὸ επι δεκα έτη τὸν πόλεμον ἀνύεσθαι, οἱ πρώτοι κεκμηκότες κατα μαχην ἰσαρίθμων αυτῶν ἄλλων ἀποστελλομένων ἀπεπέμποντο ὡς εἰκὸς ἐξ αμοιβῆς <choice><sic>ἀμύμοντες</sic><corr>ἀμύνοντες</corr></choice>, ἣ οἱ αμοιβὴν ἀποδιδόντες τῷ <persName n="urn:cite:hmt:pers.pers145">πριάμῳ</persName> δια τὸ καὶ αὐτὸν συμμαχῆσαι <rs type="ethnic" n="urn:cite:hmt:place.place231">φρυξὶν</rs> ἐπιφέρει γὰρ <q>ἡοῖ τῇ προτέρᾳ</q> λέγει γὰρ ἐν τῷ καταλόγω. <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.861</ref><q><persName n="urn:cite:hmt:pers.pers768">φόρκυς</persName> δ' αὖ <rs type="ethnic" n="urn:cite:hmt:place.place231">φρύγας</rs> ῆγε καὶ <persName n="urn:cite:hmt:pers.pers769">ἀσκάνιος</persName> θοειδής</q></cit> οἷοι αμοιβοί. δια γὰρ τῆς ἀμοιβῆς τῶν ποδῶν γίνεται τῶν πεζῶν ἔφοδος⁑</p>
                         </div>
                     </div>
                 </body>
