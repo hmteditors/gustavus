@@ -510,13 +510,14 @@
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A41" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p><persName n="urn:cite:hmt:pers.pers915">Φάλκην</persName><persName n="urn:cite:hmt:pers.pers1078"> Ὀρθαῖόν</persName> τε</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.791</p>
                         </div>
                         <div type="comment">
-                            <p>⁑</p>
+                            <p><persName n="urn:cite:hmt:pers.pers1078">Ὀρθαῖον</persName> ὡς <persName n="urn:cite:hmt:pers.pers623">Ἀλκαῖον</persName> ἐπεὶ φησὶ, τὰ διὰ τοῦ <rs type= "waw">αῖος</rs> τρισύλλαβα ἔξοντα τὴν πρώτην πρώτην συλλαβὴν εἰς σύμφωνον καταλήγουσαν προπερισπᾶσθαι θέλει· χερσαῖος ὀρφναῖος ἐρσαῖος ἀρχαῖος <persName n="urn:cite:hmt:pers.pers"> Ἀρναῖος</persName> τρικκαῖος·  Ἑρμαῖος ὅθεν τὸ Ἑρμαῖον κάρα παρα Σοφοκλῖ· τὸ δὲ ὅθι δ’
+Ἑρμαῖος λόφος ἐστιν. ὡς εἰσ ιδιότητα. καὶ τὸ ἐπι τοῦ κυρίου προς αντιδιαστολήν.  διάφορον τόνον ἀνεδέξατο ὡς Ἀθήναιος καὶ Ἀθηναῖος ἀγοραῖος καὶ ἀγόραιος, οὕτως οὖν καὶ Ὀρθαῖος προπερισπωμένως ἀναγνῶστέον. οὐδεμία γὰρ ἀντιδιαστολή· ἐπι τοῦ ὀνόματος κεχώρηκεν ⁑·</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A42" type="scholion">
