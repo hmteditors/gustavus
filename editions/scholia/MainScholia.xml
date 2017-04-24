@@ -588,13 +588,13 @@
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A48" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>βουγάϊε</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.824</p>
                         </div>
                         <div type="comment">
-                            <p>⁑</p>
+                            <p>τὴν γῆν ἐργαζόμεναι βοῦ δια τὸ δυσκίνητον καὶ μὴ δρομικὸν ὡς <persName n="urn:cite:hmt:pers.pers1">ἀχιλλεὺς</persName> καὶ μέγα τοῦ σώματος, ἡ ἐπῖ τῇ ἀσπίδι γαίων ὅ εστι γαυριῶν οἱ δὲ <q><choice><sic>βουγάϊε</sic><corr>βουκάϊε</corr></choice></q> ὅ εστι αγροῖκε βοῦ <persName n="urn:cite:hmt:pers.pers525">νίκανδρος</persName> δέ φησιν ὅτι <rs type="ethnic" n="urn:cite:hmt:place.place190">δουλιχιῶται</rs> <rs type="ethnic" n="urn:cite:hmt:place.place132">σάμιοι</rs> τοὺς ἐσθίοντας τὸ γάλα μηδὲν δὲ ἰσχύοντας βουγαΐους καλοῦσιν⁑</p>
                         </div>
                     </div>
                 </body>
