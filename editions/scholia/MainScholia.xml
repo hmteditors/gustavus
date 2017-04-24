@@ -575,15 +575,26 @@
                             <p>τυραννίων περσπᾷ οὐχ ὑγιῶς ὁ γὰρ χαρακτὴρ βαρεῖαν τάσιν ἀπαιτεῖ, εἴτε ἀπο τοῦ βιβῶ βιβάθω γενομένου τοῦ ῥήματος περιπλεονάσαντος τοῦ <rs type= "waw">σ</rs> ὥς φησι Φιλόξενος. εἴτε ἁπο ὀνόματος τοῦ βίβασθος βιβάσθων ὡς ἄϊστος <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.468</ref><q>ἀΐσθων</q></cit>· γίνεται γάρ τινα ἀπο τῶν εἰς <rs type= "waw">τὸς</rs> κατα μεταβολην τοῦ τέλους εἰς <rs type= "waw">θω</rs> βαρύτονα <w>ῥ<unclear>􀀀</unclear>ματος</w></p>. ἐγερτὸς ἐγέρθω ἐρεκτὸς ἐρέχθω ἄϊστος ἀΐσθων· οὕτως καὶ παρα τὸ μβιβαστὸς βιβάσθων· παραιτητέον δὲ καὶ τοὺς ὀξ´νοντας ὡς δεύτερον ἀόριστον. 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A46" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A47" type="scholion">
+                        <div type="lemma">
+                            <p><persName n="urn:cite:hmt:pers.pers127">αἶαν</persName> ἁμαρτοεπες βουγάϊε,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.824</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers15">ζηνόδοτος</persName> <q>βουγήϊε</q>, δια τοῦ <rs type="waw">η</rs> ὁ δε <persName n="urn:cite:hmt:pers.pers16">ἀρίσταρχος</persName> δια τοῦ <rs type="waw">α</rs> τάχα ἐπεὶ γαιων ὡς ἐπι τὸ πλεῖστον ὁ ποιητὴς λέγει⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A48" type="scholion">
                         <div type="lemma">
                             <p></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.xxx</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.824</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>⁑</p>
                         </div>
                     </div>
                 </body>
