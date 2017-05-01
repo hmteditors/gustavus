@@ -351,3 +351,4 @@ urn:cite:op:gustavus.349,urn:cts:greekLit:tlg0012.tlg001.msA:13.789@σ[2],"urn:c
 urn:cite:op:gustavus.350,urn:cts:greekLit:tlg0012.tlg001.msA:13.789@ῆ[2],"urn:cite:hmt:vaimg.VA179VN-0681@0.867,0.2254,0.015,0.0278", 
 urn:cite:op:gustavus.351,urn:cts:greekLit:tlg0012.tlg001.msA:13.789@ε[3],"urn:cite:hmt:vaimg.VA179VN-0681@0.88,0.2284,0.015,0.0278", 
 urn:cite:op:gustavus.352,urn:cts:greekLit:tlg0012.tlg001.msA:13.789@ν[4],"urn:cite:hmt:vaimg.VA179VN-0681@0.888,0.2276,0.015,0.0278",
+urn:cite:op:gustavus.353,urn:cts:greekLit:tlg0012.tlg001.msA:13.814@β,"urn:cite:hmt:vaimg.VA179VN-0681@0.888,0.2276,0.015,0.0278", from here onwards correct counting of letter frequency so that each combo of letter with breathing/accentuation is counted as unique
