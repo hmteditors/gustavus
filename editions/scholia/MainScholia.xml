@@ -597,6 +597,28 @@
                             <p>τὴν γῆν ἐργαζόμεναι βοῦ δια τὸ δυσκίνητον καὶ μὴ δρομικὸν ὡς <persName n="urn:cite:hmt:pers.pers1">ἀχιλλεὺς</persName> καὶ μέγα τοῦ σώματος, ἡ ἐπῖ τῇ ἀσπίδι γαίων ὅ εστι γαυριῶν οἱ δὲ <q><choice><sic>βουγάϊε</sic><corr>βουκάϊε</corr></choice></q> ὅ εστι αγροῖκε βοῦ <persName n="urn:cite:hmt:pers.pers525">νίκανδρος</persName> δέ φησιν ὅτι <rs type="ethnic" n="urn:cite:hmt:place.place190">δουλιχιῶται</rs> <rs type="ethnic" n="urn:cite:hmt:place.place132">σάμιοι</rs> τοὺς ἐσθίοντας τὸ γάλα μηδὲν δὲ ἰσχύοντας βουγαΐους καλοῦσιν⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A49" type="scholion">
+                        <div type="lemma">
+                            <p>πριαμίδης μὲν ἔπειτα κατα στῆθος</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.586</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι τὸ ἔπειτα ἐστιν μετα ταῦτα πρὸς τὸ Φοίνιξ μὲν πρώτιστα αὐτὰρ ἔπειτ᾽Αἴας τε μέγας. οὐκ έστιν νῦν ἀντι τοῦ μετα ταῦτα, ἀλλ᾽ἀντι τοῦ δ⁑</p>
+                        </div>
+                    </div>
+                       <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.Axx" type="scholion">
+                        <div type="lemma">
+                            <p>xx</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.xx</p>
+                        </div>
+                        <div type="comment">
+                            <p>⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
