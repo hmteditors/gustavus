@@ -69,6 +69,38 @@
                                 ἔπειτα, προς τὸ δεύτερον⁑ </p>
                         </div>
                     </div>
+                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A5" type="scholion">
+                    <div type="lemma">
+                            <p>πριαμίδης μὲν ἔπειτα κατα στῆθος</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.586</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι τὸ ἔπειτα ἐστιν μετα ταῦτα πρὸς τὸ <persName n="urn:cite:hmt:pers.pers1032">Φοίνιξ</persName> μὲν πρώτιστα αὐτὰρ ἔπειτ᾽ <persName n="urn:cite:hmt:pers.pers127">Αἴας</persName> τε μέγας. οὐκ έστιν νῦν ἀντι τοῦ μετα ταῦτα, ἀλλ᾽ἀντι τοῦ δή· ἅμαρ γὰρ ἔπεμψεν οἱ μεν τὸν ἰστὸν οἱ ὴ τὸ δόρυ⁑</p>
+                        </div>
+                    </div>
+                       <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A6" type="scholion">
+                        <div type="lemma">
+                            <p>πτυόφιν</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.588</p>
+                        </div>
+                        <div type="comment">
+                            <p>πτύου πτύον δέ εστιν ἐν ᾡ τὰ ἡλωμένα γενήματα ἀναβαλλουσι χωρίζοντες τοῦ ἀχύρου· ὁ δὲ τύπος παράγωος. τῆι <rs type="waw">φι</rs> παραγωγῆι ὁ ποιητης <persName n="urn:cite:hmt:pers.pers17">Ομηρος</persName> κατα τριῶν κέχρηται πτώσεων ἐπι γενικῆς δοτικης αἰτιαικης. <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:13.308</ref><q>ἡ επι δεξιοφιν</q></cit> εστι γαρ ἡ επὶ τα δεξιά ἠ επ ευθείας, <persName n="urn:cite:hmt:pers.pers4">ἡσίοδος</persName> <cit><ref type="urn">urn:cts:greekLit:tlg0020.tlg002:216</ref><q>ὁδὸς δ᾽ετέρηφι</q></cit>, παρελθεῖν ἔστι γὰρ ἑτέρα, ἐπι δὲ κλιτικης <persName n="urn:cite:hmt:pers.pers592">ἀλκμὰν</persName> ὁ μελοποιὸς οὕτως <cit><ref type="urn">urn:cts:greekLit:tlg0291</ref><q>μῶσα διὸς θύγατερ ωρανίαφι λίγ᾽ἀείσομαι</q></cit> ἔστι γὰρ ουρανια⁑</p>
+                        </div>
+                              <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.Axx" type="scholion">
+                        <div type="lemma">
+                            <p>xx</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.xx</p>
+                        </div>
+                        <div type="comment">
+                            <p>⁑</p>
+                        </div>
+                           
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A5" type="scholion">
                         <div type="lemma">
                             <p>χαμαὶ πέσον</p>
@@ -596,28 +628,7 @@
                         <div type="comment">
                             <p>τὴν γῆν ἐργαζόμεναι βοῦ δια τὸ δυσκίνητον καὶ μὴ δρομικὸν ὡς <persName n="urn:cite:hmt:pers.pers1">ἀχιλλεὺς</persName> καὶ μέγα τοῦ σώματος, ἡ ἐπῖ τῇ ἀσπίδι γαίων ὅ εστι γαυριῶν οἱ δὲ <q><choice><sic>βουγάϊε</sic><corr>βουκάϊε</corr></choice></q> ὅ εστι αγροῖκε βοῦ <persName n="urn:cite:hmt:pers.pers525">νίκανδρος</persName> δέ φησιν ὅτι <rs type="ethnic" n="urn:cite:hmt:place.place190">δουλιχιῶται</rs> <rs type="ethnic" n="urn:cite:hmt:place.place132">σάμιοι</rs> τοὺς ἐσθίοντας τὸ γάλα μηδὲν δὲ ἰσχύοντας βουγαΐους καλοῦσιν⁑</p>
                         </div>
-                    </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A49" type="scholion">
-                        <div type="lemma">
-                            <p>πριαμίδης μὲν ἔπειτα κατα στῆθος</p>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.586</p>
-                        </div>
-                        <div type="comment">
-                            <p>ὅτι τὸ ἔπειτα ἐστιν μετα ταῦτα πρὸς τὸ Φοίνιξ μὲν πρώτιστα αὐτὰρ ἔπειτ᾽Αἴας τε μέγας. οὐκ έστιν νῦν ἀντι τοῦ μετα ταῦτα, ἀλλ᾽ἀντι τοῦ δ⁑</p>
-                        </div>
-                    </div>
-                       <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.Axx" type="scholion">
-                        <div type="lemma">
-                            <p>xx</p>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.xx</p>
-                        </div>
-                        <div type="comment">
-                            <p>⁑</p>
-                        </div>
+                    </div>             
                     </div>
                 </body>
             </text>
