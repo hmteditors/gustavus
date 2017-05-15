@@ -92,35 +92,34 @@
                         </div>
                               <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A7" type="scholion">
                         <div type="lemma">
-                            <p>xx</p>
+                            <p>πτυοφιν</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.xx</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.588</p>
                         </div>
                         <div type="comment">
-                            <p>⁑</p>
+                            <p>τινὲς τα μὲν σίδηρα πτύα· τὰ δὲ ξύλινα καὶ τρόπον χειρὸς ἔχοντα οἷς καὶ τὴν γῆν μεταβάλλουσι θρίνακας φασὶ. παρα δὲ <placeName n="urn:cite:hmt:place.place76">ἀττικοῖς</placeName> πτέα⁑</p>
                         </div>
                                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A8" type="scholion">
                         <div type="lemma">
-                            <p>xx</p>
+                            <p>κύαμοι</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.xxx</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.589</p>
                         </div>
                         <div type="comment">
-                            <p>⁑</p>
+                            <p>περιφερεῖς γὰρ ὄντες ῥᾶον τῶν πυλλῶν ἀφάλλονται⁑</p>
                         </div>
                                         <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A9" type="scholion">
                         <div type="lemma">
-                            <p>xx</p>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.xx</p>
-                        </div>
+                            <p>τὴν βάλεν ρ᾽ἔχε·</p>
+                                            </div>
+                                            <div type="ref">
+                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.594</p>
+                                            </div>
                         <div type="comment">
-                            <p>⁑</p>
-                        </div>
-                           
+                        <p>οὕτως ᾗ ρ᾽ἔχε τόξον μετα τοῦ <rs type="waw">ϊ̄ </rs> αἱ <persName n="urn:cite:hmt:pers.pers16">ἀριστάρχου</persName> ἔστι γὰρ καθ᾽ὅ μερος κατεῖχεν ὡς ἐπι τοῦ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:12.4389</ref><q>ᾔ ρ᾽ΐ᾽δε γυμνωθέντα</q></cit> τινὲς δὲ ἄνευ τοῦ <rs type="waw">ϊ̄ </rs> γράφοντες εφ όλης τῆς χειρος δέχοντς τὸ λεγόμενον τὴν κατέχουσαν τὸ τόξον χείρα⁑</p> 
+                        </div>    
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.A10" type="scholion">
                         <div type="lemma">
                             <p>χαμαὶ πέσον</p>
